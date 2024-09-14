@@ -5,4 +5,5 @@ Focus areas:
 C,
 Python,
 Linux,
-Backend related stuff, Config, CI/CD, Docker, Kubernetes in the future....
+Also watchout for: 
+Backend related stuff, Config, CI/CD, Docker, Kubernetes, Go, Rust learnings share in the future....
